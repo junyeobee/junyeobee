@@ -19,16 +19,13 @@
 ### 인사관리 솔루션
 - Java AWT 기반 인사관리 프로그램
 - Tech Stack: Java, Oracle DB
-## 📫 Contact
-- Email: example@email.com
-- Blog: [블로그 링크]
 
 ## 📫 Contact
-- Email: example@email.com
+- Email: narosong@email.com
 - Blog: [블로그 링크]
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junyeobee&show_icons=true&theme=radical)
 
 ## 🔥 Recent Activity
 <!--START_SECTION:activity-->
