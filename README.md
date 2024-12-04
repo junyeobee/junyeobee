@@ -41,8 +41,8 @@
 - 중고 물품 거래 웹 서비스
 - Tech Stack: Java, JSP/Servlet, Oracle DB, JavaScript
 - 주요 기능
- - 메인 페이지
- - 관리자 페이지
+ - 사용자 메인 페이지
+ - 관리자 페이지 전체
 
 ### 인사관리 솔루션
 - Java AWT 기반 인사관리 프로그램
