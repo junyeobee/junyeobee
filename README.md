@@ -41,7 +41,7 @@
 
 ## 📫 Contact
 - Email: narosong@email.com
-- Blog: [블로그 링크]
+- Notion : https://junhyupnt.notion.site/Junior-Developer-15115ba8df0e8081966ae56d03405b01?pvs=4
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junyeobee&show_icons=true&theme=radical)
