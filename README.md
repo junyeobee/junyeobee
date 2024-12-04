@@ -1,6 +1,18 @@
-# 👋 안녕하세요, 송준협입니다
+# 안녕하세요, 송준협입니다
 - 신입 백엔드 개발자를 지망하고 있습니다
 - 웹 개발 및 데이터 분석, ai활용에 관심이 있습니다
+
+## 🎓 Education & Certification
+- 쌍용강북교육센터 (2024.04.28 ~ 2024.11.27)
+- Java 기반 풀스택 개발자 양성과정 수료
+- 3개의 팀 프로젝트 수행 (팀장 2회, 기술 고문 1회)
+- Spring Boot, JSP/Servlet, Oracle DB 등 실무 기술 학습
+
+  ## 🌱 Currently Learning
+- AI 활용 기술
+ - Prompt Engineering
+ - AI 자동화 도구 개발
+ - LLM 활용 애플리케이션 구현
   
 ## 🛠 Tech Stack
 ### Languages & Frameworks
