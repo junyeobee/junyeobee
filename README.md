@@ -1,24 +1,43 @@
 # 👋 안녕하세요, 송준협입니다
 - 신입 백엔드 개발자를 지망하고 있습니다
-- [주요 기술 스택] 개발에 관심이 있습니다
+- 웹 개발 및 데이터 분석, ai활용에 관심이 있습니다
+  
 ## 🛠 Tech Stack
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/STS-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 
 ## 💻 Projects
 ### 음식점 예약 서비스 (Eat's)
 - 음식점 예약 및 관리를 위한 통합 플랫폼
-- Tech Stack: Spring Boot, JavaScript, Oracle DB
+- Tech Stack: Spring Boot, JavaScript, Oracle DB, Python
+- 주요 기능
+ - 매장 대시보드 
+ - 매장 관리용 예약, 매출, 리뷰관리 기능 
+ - AI 기반 리뷰 분석 보고서
+
+### 개인간 거래 플랫폼 (WishJam)
+- 중고 물품 거래 웹 서비스
+- Tech Stack: Java, JSP/Servlet, Oracle DB, JavaScript
+- 주요 기능
+ - 메인 페이지
+ - 관리자 페이지
 
 ### 인사관리 솔루션
 - Java AWT 기반 인사관리 프로그램
 - Tech Stack: Java, Oracle DB
+- 주요 기능
+ - 사원 정보 관리
+ - 사내 공지사항 게시판
+ - 부서별 현황 그래프
 
 ## 📫 Contact
 - Email: narosong@email.com
@@ -26,10 +45,3 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junyeobee&show_icons=true&theme=radical)
-
-## 🔥 Recent Activity
-<!--START_SECTION:activity-->
-1. 프로젝트 A 업데이트
-2. 버그 수정 PR 생성
-3. 새로운 기능 구현
-<!--END_SECTION:activity-->
