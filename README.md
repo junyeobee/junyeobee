@@ -54,7 +54,7 @@
 
 ## 📫 Contact
 - Email: narosong@email.com
-- Notion : [Portfolio]https://junhyupnt.notion.site/Junior-Developer-15115ba8df0e8081966ae56d03405b01?pvs=4
+- Notion : ![Portfolio]https://junhyupnt.notion.site/Junior-Developer-15115ba8df0e8081966ae56d03405b01?pvs=4
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junyeobee&show_icons=true&theme=radical)
